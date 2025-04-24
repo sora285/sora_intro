@@ -1,6 +1,6 @@
 # 👋 はじめまして！こんにちは！
 
-![Profile Banner](https://img.shields.io/badge/Welcome-My%20GitHub%20Profile-blueviolet?style=flat-square&logo=github)
+![Profile Banner](https://github.com/sora285)
 
 ## 🧑‍💻 自己紹介 / Self Introduction
 
