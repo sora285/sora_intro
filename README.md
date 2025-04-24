@@ -1,33 +1,35 @@
-# 👋 こんにちは、[あなたの名前]です！
+# 👋 はじめまして！こんにちは！
 
-## 🧑‍💻 About Me / 自己紹介
-- 🌱 今勉強していること: [例: React, TypeScript, Firebase]
-- 🔭 今取り組んでいるプロジェクト: [プロジェクト名](リンク)
-- 💬 得意なこと・話しかけてほしいこと: [例: Web開発, UIデザイン, ハッカソン]
-- 📫 連絡方法: [メールアドレスやSNSリンク]
+![Profile Banner](https://img.shields.io/badge/Welcome-My%20GitHub%20Profile-blueviolet?style=flat-square&logo=github)
 
----
+## 🧑‍💻 自己紹介 / Self Introduction
 
-## 🛠️ Skills / スキル
-- フロントエンド: HTML / CSS / JavaScript / TypeScript / React
-- バックエンド: Node.js / PHP / Laravel
-- その他: Git / GitHub / Firebase / Docker
+こんにちは！私は**[あなたの名前]**といいます！  
+現在はプログラミングを勉強中の初心者です 🐣  
+分からないことだらけですが、毎日楽しく学んでいます！
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## ✨ Fun Facts / 雑談ネタ
-- 🎮 ゲームが好き（[好きなタイトル]）
-- ☕ コーヒー中毒
-- 🎧 作業中は[好きな音楽ジャンル]を聴いてます
+## 🌱 今勉強していること
+- HTML / CSS / JavaScript
+- React や Firebase にも挑戦中！
+- Git や GitHubの使い方も勉強しています
 
 ---
 
-<!-- お好みでバッジやSNSリンクを追加 -->
-<!-- 例: https://shields.io/ -->
+## 🔧 できること・少し使えること
+| 分野 | ツール・言語 |
+|------|---------------|
+| フロントエンド | HTML / CSS / JavaScript |
+| デザイン | Figma（ちょっとだけ） |
+| その他 | Git / GitHub（入門中） |
+
+---
+
+## 🗂 作ったもの（一部紹介）
+### 🍀 HTML+CSSの自己紹介カード（練習用）
+```html
+<div class="card">
+  <h2>こんにちは！</h2>
+  <p>私はプログラミング勉強中の○○です</p>
+</div>
